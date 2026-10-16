@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Template Test</string>
+    <string name="hello_message">Hello from GitHub Actions!</string>
+    <string name="tap_button">Tap me</string>
+    <string name="build_info">Android %1$s (API %2$d)</string>
+</resources>
